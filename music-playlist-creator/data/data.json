@@ -1,0 +1,716 @@
+{
+    "playlist": [
+        {
+            "playlistID": 1,
+            "title": "Count Me In",
+            "author": "User_100",
+            "likes": 278,
+            "songs": [
+                {
+                    "songID": 20,
+                    "title": "Count Me Out",
+                    "artist": "Kendrick Lamar",
+                    "duration": "4:20"
+                },
+                {
+                    "songID": 21,
+                    "title": "NOKIA",
+                    "artist": "Drake",
+                    "duration": "2:30"
+                },
+                {
+                    "songID": 22,
+                    "title": "Right Out My Mind",
+                    "artist": "Joey Bada$$",
+                    "duration": "3:50"
+                },
+                {
+                    "songID": 23,
+                    "title": "New Drop Top",
+                    "artist": "Don Toliver",
+                    "duration": "2:45"
+                },
+                {
+                    "songID": 24,
+                    "title": "So Fresh, So Clean",
+                    "artist": "Outkast",
+                    "duration": "4:00"
+                },
+                {
+                    "songID": 25,
+                    "title": "16",
+                    "artist": "Baby Keem",
+                    "duration": "2:32"
+                },
+                {
+                    "songID": 26,
+                    "title": "If We Being Real",
+                    "artist": "Yeat",
+                    "duration": "2:20"
+                },
+                {
+                    "songID": 27,
+                    "title": "SDP Interlude",
+                    "artist": "Travis Scott",
+                    "duration": "3:10"
+                },
+                {
+                    "songID": 28,
+                    "title": "ZEZE",
+                    "artist": "Kodak Black",
+                    "duration": "3:48"
+                },
+                {
+                    "songID": 29,
+                    "title": "Rather Lie",
+                    "artist": "Playboi Carti & The Weeknd",
+                    "duration": "3:15"
+                }
+
+            ]
+        },
+        {
+            "playlistID": 2,
+            "title": "Top Hits",
+            "author": "User_101",
+            "likes": 360,
+            "songs": [
+                {
+                    "songID": 29,
+                    "title": "Flowers",
+                    "artist": "Miley Cyrus",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 30,
+                    "title": "Creepin'",
+                    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+                    "duration": "3:41"
+                },
+                {
+                    "songID": 31,
+                    "title": "Heat Waves",
+                    "artist": "Glass Animals",
+                    "duration": "3:58"
+                },
+                {
+                    "songID": 32,
+                    "title": "Shivers",
+                    "artist": "Ed Sheeran",
+                    "duration": "3:27"
+                },
+                {
+                    "songID": 33,
+                    "title": "Blinding Lights",
+                    "artist": "The Weeknd",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 34,
+                    "title": "Good 4 U",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "2:58"
+                },
+                {
+                    "songID": 35,
+                    "title": "Anti-Hero",
+                    "artist": "Taylor Swift",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 36,
+                    "title": "Bad Habit",
+                    "artist": "Steve Lacy",
+                    "duration": "3:52"
+                },
+                {
+                    "songID": 37,
+                    "title": "Industry Baby",
+                    "artist": "Lil Nas X & Jack Harlow",
+                    "duration": "3:32"
+                },
+                {
+                    "songID": 38,
+                    "title": "Stay",
+                    "artist": "The Kid LAROI & Justin Bieber",
+                    "duration": "2:21"
+                }
+            ]
+        },
+        {
+            "playlistID": 3,
+            "title": "Late Night Drive",
+            "author": "User_102",
+            "likes": 70,
+            "songs": [
+                {
+                    "songID": 39,
+                    "title": "Flowers",
+                    "artist": "Miley Cyrus",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 40,
+                    "title": "Calm Down",
+                    "artist": "Rema & Selena Gomez",
+                    "duration": "3:59"
+                },
+                {
+                    "songID": 41,
+                    "title": "Golden Hour",
+                    "artist": "JVKE",
+                    "duration": "3:29"
+                },
+                {
+                    "songID": 42,
+                    "title": "Good 4 U",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "2:58"
+                },
+                {
+                    "songID": 43,
+                    "title": "Levitating",
+                    "artist": "Dua Lipa",
+                    "duration": "3:23"
+                },
+                {
+                    "songID": 44,
+                    "title": "drivers license",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "4:02"
+                },
+                {
+                    "songID": 45,
+                    "title": "Kill Bill",
+                    "artist": "SZA",
+                    "duration": "2:33"
+                },
+                {
+                    "songID": 46,
+                    "title": "Creepin'",
+                    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+                    "duration": "3:41"
+                },
+                {
+                    "songID": 47,
+                    "title": "Montero (Call Me By Your Name)",
+                    "artist": "Lil Nas X",
+                    "duration": "2:17"
+                }
+            ]
+        },
+        {
+            "playlistID": 4,
+            "title": "Workout Pump",
+            "author": "User_103",
+            "likes": 101,
+            "songs": [
+                {
+                    "songID": 48,
+                    "title": "Creepin'",
+                    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+                    "duration": "3:41"
+                },
+                {
+                    "songID": 49,
+                    "title": "Anti-Hero",
+                    "artist": "Taylor Swift",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 50,
+                    "title": "Levitating",
+                    "artist": "Dua Lipa",
+                    "duration": "3:23"
+                },
+                {
+                    "songID": 51,
+                    "title": "Kill Bill",
+                    "artist": "SZA",
+                    "duration": "2:33"
+                },
+                {
+                    "songID": 52,
+                    "title": "Peaches",
+                    "artist": "Justin Bieber",
+                    "duration": "3:18"
+                },
+                {
+                    "songID": 53,
+                    "title": "Unholy",
+                    "artist": "Sam Smith & Kim Petras",
+                    "duration": "2:36"
+                },
+                {
+                    "songID": 54,
+                    "title": "Good 4 U",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "2:58"
+                },
+                {
+                    "songID": 55,
+                    "title": "Golden Hour",
+                    "artist": "JVKE",
+                    "duration": "3:29"
+                },
+                {
+                    "songID": 56,
+                    "title": "drivers license",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "4:02"
+                },
+                {
+                    "songID": 57,
+                    "title": "Flowers",
+                    "artist": "Miley Cyrus",
+                    "duration": "3:20"
+                }
+            ]
+        },
+        {
+            "playlistID": 5,
+            "title": "Coffee Shop Mix",
+            "author": "User_104",
+            "likes": 232,
+            "songs": [
+                {
+                    "songID": 58,
+                    "title": "Blinding Lights",
+                    "artist": "The Weeknd",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 59,
+                    "title": "Stay",
+                    "artist": "The Kid LAROI & Justin Bieber",
+                    "duration": "2:21"
+                },
+                {
+                    "songID": 60,
+                    "title": "Golden Hour",
+                    "artist": "JVKE",
+                    "duration": "3:29"
+                },
+                {
+                    "songID": 61,
+                    "title": "Industry Baby",
+                    "artist": "Lil Nas X & Jack Harlow",
+                    "duration": "3:32"
+                },
+                {
+                    "songID": 62,
+                    "title": "Watermelon Sugar",
+                    "artist": "Harry Styles",
+                    "duration": "2:54"
+                },
+                {
+                    "songID": 63,
+                    "title": "drivers license",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "4:02"
+                },
+                {
+                    "songID": 64,
+                    "title": "Anti-Hero",
+                    "artist": "Taylor Swift",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 65,
+                    "title": "Heat Waves",
+                    "artist": "Glass Animals",
+                    "duration": "3:58"
+                },
+                {
+                    "songID": 66,
+                    "title": "Levitating",
+                    "artist": "Dua Lipa",
+                    "duration": "3:23"
+                }
+            ]
+        },
+        {
+            "playlistID": 6,
+            "title": "Feel Good Friday",
+            "author": "User_105",
+            "likes": 396,
+            "songs": [
+                {
+                    "songID": 67,
+                    "title": "Heat Waves",
+                    "artist": "Glass Animals",
+                    "duration": "3:58"
+                },
+                {
+                    "songID": 68,
+                    "title": "Industry Baby",
+                    "artist": "Lil Nas X & Jack Harlow",
+                    "duration": "3:32"
+                },
+                {
+                    "songID": 69,
+                    "title": "Blinding Lights",
+                    "artist": "The Weeknd",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 70,
+                    "title": "Shivers",
+                    "artist": "Ed Sheeran",
+                    "duration": "3:27"
+                },
+                {
+                    "songID": 71,
+                    "title": "drivers license",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "4:02"
+                },
+                {
+                    "songID": 72,
+                    "title": "As It Was",
+                    "artist": "Harry Styles",
+                    "duration": "2:47"
+                },
+                {
+                    "songID": 73,
+                    "title": "Unholy",
+                    "artist": "Sam Smith & Kim Petras",
+                    "duration": "2:36"
+                },
+                {
+                    "songID": 74,
+                    "title": "Bad Habit",
+                    "artist": "Steve Lacy",
+                    "duration": "3:52"
+                },
+                {
+                    "songID": 75,
+                    "title": "Flowers",
+                    "artist": "Miley Cyrus",
+                    "duration": "3:20"
+                }
+            ]
+        },
+        {
+            "playlistID": 7,
+            "title": "Mood Booster",
+            "author": "User_106",
+            "likes": 305,
+            "songs": [
+                {
+                    "songID": 76,
+                    "title": "Calm Down",
+                    "artist": "Rema & Selena Gomez",
+                    "duration": "3:59"
+                },
+                {
+                    "songID": 77,
+                    "title": "Unholy",
+                    "artist": "Sam Smith & Kim Petras",
+                    "duration": "2:36"
+                },
+                {
+                    "songID": 78,
+                    "title": "Flowers",
+                    "artist": "Miley Cyrus",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 79,
+                    "title": "Good 4 U",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "2:58"
+                },
+                {
+                    "songID": 80,
+                    "title": "Blinding Lights",
+                    "artist": "The Weeknd",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 81,
+                    "title": "Creepin'",
+                    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+                    "duration": "3:41"
+                },
+                {
+                    "songID": 82,
+                    "title": "Shivers",
+                    "artist": "Ed Sheeran",
+                    "duration": "3:27"
+                },
+                {
+                    "songID": 83,
+                    "title": "Anti-Hero",
+                    "artist": "Taylor Swift",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 84,
+                    "title": "Stay",
+                    "artist": "The Kid LAROI & Justin Bieber",
+                    "duration": "2:21"
+                }
+            ]
+        },
+        {
+            "playlistID": 8,
+            "title": "Rainy Day Sounds",
+            "author": "User_107",
+            "likes": 418,
+            "songs": [
+                {
+                    "songID": 85,
+                    "title": "Watermelon Sugar",
+                    "artist": "Harry Styles",
+                    "duration": "2:54"
+                },
+                {
+                    "songID": 86,
+                    "title": "Peaches",
+                    "artist": "Justin Bieber",
+                    "duration": "3:18"
+                },
+                {
+                    "songID": 87,
+                    "title": "Stay",
+                    "artist": "The Kid LAROI & Justin Bieber",
+                    "duration": "2:21"
+                },
+                {
+                    "songID": 88,
+                    "title": "Bad Habit",
+                    "artist": "Steve Lacy",
+                    "duration": "3:52"
+                },
+                {
+                    "songID": 89,
+                    "title": "Industry Baby",
+                    "artist": "Lil Nas X & Jack Harlow",
+                    "duration": "3:32"
+                },
+                {
+                    "songID": 90,
+                    "title": "Shivers",
+                    "artist": "Ed Sheeran",
+                    "duration": "3:27"
+                },
+                {
+                    "songID": 91,
+                    "title": "Anti-Hero",
+                    "artist": "Taylor Swift",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 92,
+                    "title": "Unholy",
+                    "artist": "Sam Smith & Kim Petras",
+                    "duration": "2:36"
+                },
+                {
+                    "songID": 93,
+                    "title": "Creepin'",
+                    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+                    "duration": "3:41"
+                },
+                {
+                    "songID": 94,
+                    "title": "As It Was",
+                    "artist": "Harry Styles",
+                    "duration": "2:47"
+                }
+            ]
+        },
+        {
+            "playlistID": 9,
+            "title": "Weekend Party",
+            "author": "User_108",
+            "likes": 102,
+            "songs": [
+                {
+                    "songID": 95,
+                    "title": "Shivers",
+                    "artist": "Ed Sheeran",
+                    "duration": "3:27"
+                },
+                {
+                    "songID": 96,
+                    "title": "Good 4 U",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "2:58"
+                },
+                {
+                    "songID": 97,
+                    "title": "Kill Bill",
+                    "artist": "SZA",
+                    "duration": "2:33"
+                },
+                {
+                    "songID": 98,
+                    "title": "Levitating",
+                    "artist": "Dua Lipa",
+                    "duration": "3:23"
+                },
+                {
+                    "songID": 99,
+                    "title": "Peaches",
+                    "artist": "Justin Bieber",
+                    "duration": "3:18"
+                },
+                {
+                    "songID": 100,
+                    "title": "Creepin'",
+                    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+                    "duration": "3:41"
+                },
+                {
+                    "songID": 101,
+                    "title": "Watermelon Sugar",
+                    "artist": "Harry Styles",
+                    "duration": "2:54"
+                },
+                {
+                    "songID": 102,
+                    "title": "drivers license",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "4:02"
+                },
+                {
+                    "songID": 103,
+                    "title": "Stay",
+                    "artist": "The Kid LAROI & Justin Bieber",
+                    "duration": "2:21"
+                },
+                {
+                    "songID": 104,
+                    "title": "Flowers",
+                    "artist": "Miley Cyrus",
+                    "duration": "3:20"
+                }
+            ]
+        },
+        {
+            "playlistID": 10,
+            "title": "Lo-Fi Lounge",
+            "author": "User_109",
+            "likes": 215,
+            "songs": [
+                {
+                    "songID": 105,
+                    "title": "Heat Waves",
+                    "artist": "Glass Animals",
+                    "duration": "3:58"
+                },
+                {
+                    "songID": 106,
+                    "title": "As It Was",
+                    "artist": "Harry Styles",
+                    "duration": "2:47"
+                },
+                {
+                    "songID": 107,
+                    "title": "Stay",
+                    "artist": "The Kid LAROI & Justin Bieber",
+                    "duration": "2:21"
+                },
+                {
+                    "songID": 108,
+                    "title": "drivers license",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "4:02"
+                },
+                {
+                    "songID": 109,
+                    "title": "Shivers",
+                    "artist": "Ed Sheeran",
+                    "duration": "3:27"
+                },
+                {
+                    "songID": 110,
+                    "title": "Good 4 U",
+                    "artist": "Olivia Rodrigo",
+                    "duration": "2:58"
+                },
+                {
+                    "songID": 111,
+                    "title": "Industry Baby",
+                    "artist": "Lil Nas X & Jack Harlow",
+                    "duration": "3:32"
+                },
+                {
+                    "songID": 112,
+                    "title": "Bad Habit",
+                    "artist": "Steve Lacy",
+                    "duration": "3:52"
+                },
+                {
+                    "songID": 113,
+                    "title": "Peaches",
+                    "artist": "Justin Bieber",
+                    "duration": "3:18"
+                }
+            ]
+        },   {
+            "playlistID": 11,
+            "title": "Chill Vibes",
+            "author": "User_100",
+            "likes": 478,
+            "songs": [
+                {
+                    "songID": 20,
+                    "title": "Stay",
+                    "artist": "The Kid LAROI & Justin Bieber",
+                    "duration": "2:21"
+                },
+                {
+                    "songID": 21,
+                    "title": "Montero (Call Me By Your Name)",
+                    "artist": "Lil Nas X",
+                    "duration": "2:17"
+                },
+                {
+                    "songID": 22,
+                    "title": "Kill Bill",
+                    "artist": "SZA",
+                    "duration": "2:33"
+                },
+                {
+                    "songID": 23,
+                    "title": "Heat Waves",
+                    "artist": "Glass Animals",
+                    "duration": "3:58"
+                },
+                {
+                    "songID": 24,
+                    "title": "Creepin'",
+                    "artist": "Metro Boomin, The Weeknd, 21 Savage",
+                    "duration": "3:41"
+                },
+                {
+                    "songID": 25,
+                    "title": "Bad Habit",
+                    "artist": "Steve Lacy",
+                    "duration": "3:52"
+                },
+                {
+                    "songID": 26,
+                    "title": "Watermelon Sugar",
+                    "artist": "Harry Styles",
+                    "duration": "2:54"
+                },
+                {
+                    "songID": 27,
+                    "title": "Flowers",
+                    "artist": "Miley Cyrus",
+                    "duration": "3:20"
+                },
+                {
+                    "songID": 28,
+                    "title": "Levitating",
+                    "artist": "Dua Lipa",
+                    "duration": "3:23"
+                }
+            ]
+        }
+    ]
+}

@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
   <div class="playlist-design-box">
     <img src="assets/img/playlist-back.png" alt="Playlist Cover" />
     <h3>${pl.title}</h3>
-    <span class="edit-icon" data-id="${pl.id}">&#9998;</span> <!-- ✏️ Edit icon -->
+    <span class="edit-icon" data-id="${pl.id}">&#9998;</span> 
   </div>
   <p>By ${pl.author}</p>
   <div class="like-row">
@@ -113,7 +113,6 @@ window.openModal = function (playlist) {
         <div class="song-info">
           <p class="song-title">${song.title}</p>
           <p class="song-artist">${song.artist}</p>
-          <p class="song-album">${song.album}</p>
           <span class="song-duration">${song.duration}</span>
         </div>
       </div>
